@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Login">Login</string>
+    <string name="BluetoothConnect">Set Up Insurance bluetooth Device</string>
+    <string name="BluetoothSearch">Search for Bluetooth Devices</string>
+    <string name="FoundDevices">Found x Connected Bluetooth devices</string>
+    <string name="InsuranceMode">Insurance Mode OFF</string>
+    <string name="SimulateInsuranceMode">Simulate Time Based Insurance Mode</string>
+</resources>
